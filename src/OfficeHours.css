@@ -1,0 +1,38 @@
+form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: auto;
+  }
+  
+  .container-form {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  label {
+    width: 100px;
+  }
+  
+  input {
+    width: 100px;
+  }
+  
+  .submitted-hours {
+    margin-top: 20px;
+  }
+  
+  .submitted-hours h3 {
+    margin-bottom: 10px;
+  }
+  
+  .submitted-hours ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .submitted-hours li {
+    margin-bottom: 5px;
+  }
+  
